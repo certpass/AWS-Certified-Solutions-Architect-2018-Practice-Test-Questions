@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## AWS Certified Solution Architect 2018 Practice exam test 
 
-You can use the [editor on GitHub](https://github.com/certpass/AWS-Certified-Solutions-Architect-2018-Practice-Test-Questions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AWS Certified Solutions architect dumps and practice test sample questions for passing the exam in first attempts. Today it gives me a great excitement and pleasure of success which I was able to feel through after successfully clearing AWS Certified Solution Architect – Associate. This is one of the credentials which was siting into my wait queue for quite some time now and today I was able to pass through the same.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Since I strongly believe in sharing Knowledge and experience, please find below structure which I strongly followed with positive believe in passing through the exam.
 
-### Markdown
+Below practice questions helped me a lot in cracking the exam with ease 91%.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Over 800 AWS Certified Solutions Architect 2018 Exam Practice Questions on Udemy 100% Unconditional Pass Guarantee Practice Test :
 
-```markdown
-Syntax highlighted code block
+Go to **[AWS Solutions Architect 2018 Practice Exams](https://goo.gl/hxjeE2) (45% Discount applied. Limited period offer) Over 800 Questions. New Questions added every week from new exam questions.**
 
-# Header 1
-## Header 2
-### Header 3
+Coupon Code : SKILLCERTPRO
 
-- Bulleted
-- List
+Life time access.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Must take practice test to pass your AWS certification in 2018. The AWS Certified Solutions Architect 2018 Practice Exams comes with a total of 800 exam questions spread across 6 individual exams. Each exam contains 60 questions and you have 80 minutes in which to complete the exam. The passing score for each exam is 75%. These AWS practice exams will test your knowledge on all core exam topics and enable you to gauge your readiness for the official AWS Certification exams.
 
-[Link](url) and ![Image](src)
-```
+Take the AWS Associate Certification Sample Questions and discover your strengths and weaknesses in the AWS Exam. This AWS Solution Architect Associate Sample Questions is representative of the real exam and helps you prepare for the exam. AWS dumps is for those who prefer to study for their tests systematically. With this AWS Associate Exam Dumps, you will be able to pinpoint the areas of the subject that need work and strengthen them. Give the AWS test a go today!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Test your skills in exam simulations, prepare for AWS Certifications and start learning in minutes.
 
-### Jekyll Themes
+Questions collected from previous AWS exams in 2018
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/certpass/AWS-Certified-Solutions-Architect-2018-Practice-Test-Questions/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+New Questions will be added every week.
 
-### Support or Contact
+AWS Solution Architect – Associate exam basically validates the following 2 abilities
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Identify and gather requirements in order to define a solution to be built using architecture best practices.
+Provide guidance on architectural best practices to developers and system administrators throughout the lifecycle of the project.
+Refer to the AWS Solution Architect – Associate Exam Blue Print
+
+By appearing in the Amazon AWS-Solution-Architect-Associate exam you are not only securing your present but also securing your future if you get perfect AWS Certified Solutions Architect AWS-Solution-Architect-Associate exam dumps. All the Amazon certified professionals must pass AWS Certified Solutions Architect AWS Certified Solutions Architect - Associate exam they would help you in getting hired. There are a lot of AWS-Solution-Architect-Associate exam questions for the preparation of Amazon AWS-Solution-Architect-Associate exam in the IT world these days, thus by this AWS Certified Solutions Architect - Associate exam, you can definitely ensure the companies that you are different from the rest of the candidates. When you prepare for the AWS Certified Solutions Architect AWS-Solution-Architect-Associate exam questions and answers it polishes your skills which helps you in advancing in the IT world.
+
+
