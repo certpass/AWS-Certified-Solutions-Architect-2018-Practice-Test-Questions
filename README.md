@@ -8,9 +8,9 @@ Below practice questions helped me a lot in cracking the exam with ease 91%.
 
 Over 800 AWS Certified Solutions Architect 2018 Exam Practice Questions on Udemy 100% Unconditional Pass Guarantee Practice Test :
 
-Go to **[AWS Solutions Architect 2018 Practice Exams](https://goo.gl/hxjeE2) (45% Discount applied. Limited period offer) Over 800 Questions. New Questions added every week from new exam questions.**
+Go to **[AWS Solutions Architect 2018 Practice Exams](https://goo.gl/LkmNBM) (45% Discount applied. Limited period offer) Over 800 Questions. New Questions added every week from new exam questions.**
 
-Coupon Code : SKILLCERTPRO
+Coupon Code : SKILLCERTPRO1
 
 Life time access.
 
